@@ -1,0 +1,22 @@
+# Dependencias instaladas
+/node_modules
+/build
+
+# Archivos generados por TypeScript
+/dist
+/*.js
+*.js.map
+
+# Archivos generados por el entorno de desarrollo
+*.log
+*.swp
+
+# Archivos de entorno
+.env
+
+# Dependencias específicas de los usuarios (como las de Visual Studio Code)
+.vscode
+
+# Archivos de configuración de sistemas operativos
+.DS_Store
+Thumbs.db

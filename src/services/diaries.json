@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "date": "2019-01-01",
+    "weather": "sunny",
+    "visibility": "poor",
+    "comment": "good day"
+  },
+  {
+    "id": 2,
+    "date": "2019-01-02",
+    "weather": "cloudy",
+    "visibility": "good",
+    "comment": "good day"
+  },
+  {
+    "id": 3,
+    "date": "2019-01-03",
+    "weather": "rainy",
+    "visibility": "good",
+    "comment": "good day"
+  },
+  {
+    "id": 4,
+    "date": "2019-01-04",
+    "weather": "sunny",
+    "visibility": "good",
+    "comment": "good day"
+  },
+  {
+    "id": 5,
+    "date": "2019-01-05",
+    "weather": "sunny",
+    "visibility": "good",
+    "comment": "good day"
+  }
+]
